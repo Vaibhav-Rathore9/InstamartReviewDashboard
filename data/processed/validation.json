@@ -1,0 +1,15 @@
+{
+  "goldSetSize": 80,
+  "accuracy": 0.588,
+  "cohenKappa": 0.517,
+  "themeStability": 1,
+  "negativeControlPass": true,
+  "citationCoverage": 1,
+  "singleSourceThemes": [],
+  "notes": [
+    "Gold labels are rule-based expert heuristics on scraped text (not paid annotators).",
+    "Theme stability is Jaccard overlap of top themes across 3 deterministic reshuffles.",
+    "Single-source themes are flagged as lower confidence pending triangulation.",
+    "Negative control passed: off-topic texts do not invent category blockers."
+  ]
+}

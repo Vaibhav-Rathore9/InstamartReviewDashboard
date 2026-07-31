@@ -1,0 +1,154 @@
+[
+  {
+    "id": "insight_1",
+    "question": "Why do users repeatedly buy from the same categories?",
+    "answer": "Replenishment loops dominate: weekly grocery/snack lists are reordered via search and past-orders. Speed jobs-to-be-done leave no room for category tourism.",
+    "evidenceIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_a4edcc59a68b18be"
+    ],
+    "themes": [
+      "theme_1_ops_frustration",
+      "theme_4_general_usage",
+      "theme_5_trust_quality"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "insight_2",
+    "question": "What prevents users from exploring new categories?",
+    "answer": "Three stacked blockers: search-tunnel navigation, first-purchase risk (quality/size/brand), and time pressure of 10-minute delivery missions.",
+    "evidenceIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_a4edcc59a68b18be"
+    ],
+    "themes": [
+      "theme_1_ops_frustration",
+      "theme_4_general_usage",
+      "theme_5_trust_quality"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "insight_3",
+    "question": "How do users discover products today?",
+    "answer": "Primarily typed search and reorder. Browse/recommendations and cross-category carousels are secondary; Reddit users also compare across Blinkit/Zepto externally.",
+    "evidenceIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_a4edcc59a68b18be"
+    ],
+    "themes": [
+      "theme_1_ops_frustration",
+      "theme_4_general_usage",
+      "theme_5_trust_quality"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "insight_4",
+    "question": "What role do habits play in shopping behavior?",
+    "answer": "Habit is the default operating system. Once a SKU set works, users protect the routine. Exploration is treated as optional cognitive load.",
+    "evidenceIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_a4edcc59a68b18be"
+    ],
+    "themes": [
+      "theme_1_ops_frustration",
+      "theme_4_general_usage",
+      "theme_5_trust_quality"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "insight_5",
+    "question": "What information do users need before trying a new category?",
+    "answer": "Trusted brand shortlists, unit price vs alternatives, freshness guarantees, return/replace clarity, and a household-reason ('you buy X offline; try these 3').",
+    "evidenceIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_a4edcc59a68b18be"
+    ],
+    "themes": [
+      "theme_1_ops_frustration",
+      "theme_4_general_usage",
+      "theme_5_trust_quality"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "insight_6",
+    "question": "What frustrations emerge repeatedly?",
+    "answer": "Wrong/expired items, cancellations after offers, delivery partner issues, and price perception — all of which punish experimentation harder than replenishment.",
+    "evidenceIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_a4edcc59a68b18be"
+    ],
+    "themes": [
+      "theme_1_ops_frustration",
+      "theme_4_general_usage",
+      "theme_5_trust_quality"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "insight_7",
+    "question": "Which user segments are more likely to experiment?",
+    "answer": "Pet owners, new parents, and multi-category households show more adjacency demand. Young professionals who only buy snacks are least exploratory.",
+    "evidenceIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_a4edcc59a68b18be"
+    ],
+    "themes": [
+      "theme_1_ops_frustration",
+      "theme_4_general_usage",
+      "theme_5_trust_quality"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "insight_8",
+    "question": "What unmet needs emerge consistently across discussions?",
+    "answer": "Guided first baskets for adjacency categories, trust signals for perishables, and transparent price anchors versus kirana/Amazon for non-grocery aisles.",
+    "evidenceIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_a4edcc59a68b18be"
+    ],
+    "themes": [
+      "theme_1_ops_frustration",
+      "theme_4_general_usage",
+      "theme_5_trust_quality"
+    ],
+    "confidence": "medium"
+  }
+]

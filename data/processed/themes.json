@@ -1,0 +1,294 @@
+[
+  {
+    "id": "theme_1_ops_frustration",
+    "name": "Ops failures erode experimental trust",
+    "description": "Cancellations, wrong items, and delivery issues reduce willingness to experiment.",
+    "itemCount": 2624,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_02aef560a85cb24b",
+      "playstore_instamart_45a0b450650ceb7f",
+      "playstore_instamart_7e9e6b56b086c270",
+      "playstore_instamart_1d86ac286e6333ed",
+      "playstore_instamart_96d0b5b4c6a0c200",
+      "playstore_instamart_ed761a9d7bd6cfa1",
+      "playstore_instamart_413e6053f3b6ddd7",
+      "playstore_instamart_ca69d00b7e113b14"
+    ],
+    "keywords": [
+      "cancel",
+      "wrong item",
+      "delivery"
+    ]
+  },
+  {
+    "id": "theme_4_general_usage",
+    "name": "Routine convenience praise",
+    "description": "Positive speed/convenience feedback with little exploration signal.",
+    "itemCount": 2045,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_d52c730b8510e546",
+      "playstore_instamart_5aa9a03b052ae7f5",
+      "playstore_instamart_ce8a23e721c1a695",
+      "playstore_instamart_e190fbe8506e7414",
+      "playstore_instamart_883c7e3868da2ef0",
+      "playstore_instamart_2a5ddc787da8bd4a",
+      "playstore_instamart_71bb94a8672f09e2",
+      "playstore_instamart_2b1b9b99f6f78879"
+    ],
+    "keywords": [
+      "fast",
+      "convenient",
+      "good"
+    ]
+  },
+  {
+    "id": "theme_5_trust_quality",
+    "name": "Quality & freshness anxiety blocks new categories",
+    "description": "Fear of expiry, contamination, or wrong items is amplified when trying unfamiliar categories.",
+    "itemCount": 1294,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_20d95aa4b0c42ea0",
+      "playstore_instamart_5ea51fdaa2b4887c",
+      "playstore_instamart_e17bc53d357698cd",
+      "playstore_instamart_5b4eac77f48f4b39",
+      "playstore_instamart_e1b681be6b03de07",
+      "playstore_instamart_13911b302dcdcbaa",
+      "playstore_instamart_ed64ff9f0b080045",
+      "playstore_instamart_08c8ec597ab9d310"
+    ],
+    "keywords": [
+      "fresh",
+      "expiry",
+      "quality",
+      "FSSAI"
+    ]
+  },
+  {
+    "id": "theme_7_discovery_ui",
+    "name": "UI does not surface relevant new categories",
+    "description": "Homepage and category nav optimize for speed, not for household-context discovery.",
+    "itemCount": 681,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_a1c1970d10208709",
+      "playstore_instamart_3ce2a769c49a4f90",
+      "playstore_instamart_032576dd6c303076",
+      "playstore_instamart_21e2440b1751385f",
+      "playstore_instamart_846b9cf1d1cd3948",
+      "playstore_instamart_f692697c6128c433",
+      "playstore_instamart_25ac7538780ca71a",
+      "playstore_instamart_eb6df506d13cf042"
+    ],
+    "keywords": [
+      "hard to find",
+      "navigation",
+      "discover"
+    ]
+  },
+  {
+    "id": "theme_2_price_uncertainty",
+    "name": "Price opacity vs kirana/Amazon",
+    "description": "Users hesitate to try new categories because they cannot verify fair pricing quickly.",
+    "itemCount": 673,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_2dc085c635450901",
+      "playstore_instamart_3e61941a19f7e013",
+      "playstore_instamart_a51dd56362d05ef4",
+      "playstore_instamart_71af669e8a103423",
+      "playstore_instamart_0b7f2378dc5ede44",
+      "playstore_instamart_71d7949c11a30292",
+      "playstore_instamart_ae81688aadc3af37",
+      "playstore_instamart_876f2eb665d4eb8c"
+    ],
+    "keywords": [
+      "price",
+      "expensive",
+      "MRP"
+    ]
+  },
+  {
+    "id": "theme_8_time_pressure",
+    "name": "10-minute urgency kills exploration",
+    "description": "Mission is 'get it now'; so browsing new categories feels like wasted time.",
+    "itemCount": 503,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_2c992fc94e988b5f",
+      "playstore_instamart_d7ffcc57a79ec691",
+      "playstore_instamart_befa7f56b7c2f629",
+      "playstore_instamart_cf59f846fa138dc8",
+      "playstore_instamart_240b55b7cb8d0889",
+      "playstore_instamart_24b7e7e8f8e3d632",
+      "playstore_instamart_b301ffc22b7ff33c",
+      "playstore_instamart_9c07ad7683e5ce9b"
+    ],
+    "keywords": [
+      "urgent",
+      "minutes",
+      "rush"
+    ]
+  },
+  {
+    "id": "theme_3_first_purchase_risk",
+    "name": "First-purchase risk in unfamiliar categories",
+    "description": "Without size/brand guidance and easy returns, users avoid first buys in pet, baby, personal care.",
+    "itemCount": 414,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_a46ea38950e335ba",
+      "playstore_instamart_90262be2602abac8",
+      "playstore_instamart_97237f7fc6c4c92c",
+      "playstore_instamart_dcf988115b78726b",
+      "playstore_instamart_6900c23fd46995ea",
+      "playstore_instamart_d69cbeec8c64d2e3",
+      "playstore_instamart_374af34daca19786",
+      "playstore_instamart_a1ff12c0f0147c5a"
+    ],
+    "keywords": [
+      "first time",
+      "try",
+      "hesitate",
+      "return"
+    ]
+  },
+  {
+    "id": "theme_6_assortment_gap",
+    "name": "Assortment gaps push exploration off-platform",
+    "description": "Missing niche SKUs in pet/baby/personal care force users to other apps or offline stores.",
+    "itemCount": 231,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_a4edcc59a68b18be",
+      "playstore_instamart_b7aafdbad9ad12c5",
+      "playstore_instamart_53616d9152ca76a3",
+      "playstore_instamart_1e34ebbc5c6c0405",
+      "playstore_instamart_bf8b9fe24bad1ce0",
+      "playstore_instamart_1bc2cfa0e8860058",
+      "playstore_instamart_a815544f6ae9b562",
+      "playstore_instamart_0e78c9f91ebd4c70"
+    ],
+    "keywords": [
+      "out of stock",
+      "not available",
+      "limited"
+    ]
+  },
+  {
+    "id": "theme_9_habit_autopilot",
+    "name": "Reorder autopilot locks baskets",
+    "description": "Users treat Instamart as a replenishment tool and reorder the same SKUs, rarely opening category browse paths.",
+    "itemCount": 223,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_9cdf7c61918c77a1",
+      "playstore_instamart_4651a29ac01d5697",
+      "playstore_instamart_ffefe04e18cf9006",
+      "playstore_instamart_01ff285c4083eb33",
+      "playstore_instamart_ca704629d1160c91",
+      "playstore_instamart_46dcd841293499fd",
+      "playstore_instamart_f81fd00bde9d3c26",
+      "playstore_instamart_834ddd035497d1ba"
+    ],
+    "keywords": [
+      "reorder",
+      "same items",
+      "habit",
+      "weekly"
+    ]
+  },
+  {
+    "id": "theme_10_search_tunnel",
+    "name": "Search-first usage skips category discovery",
+    "description": "Shoppers type known product names into search, never encountering adjacent categories.",
+    "itemCount": 63,
+    "sources": [
+      "playstore",
+      "appstore",
+      "reddit"
+    ],
+    "confidence": "high",
+    "sampleIds": [
+      "playstore_instamart_f134fa06004b8228",
+      "playstore_instamart_a58a45cc269d1b12",
+      "playstore_instamart_d0ce1efacaf72b70",
+      "playstore_instamart_936770dbe9ffa998",
+      "playstore_instamart_cad207e538bdb7c9",
+      "playstore_instamart_42d2c4944b2e3787",
+      "playstore_instamart_d4ccfde90173f6fa",
+      "playstore_swiggy_4646e5699a016973"
+    ],
+    "keywords": [
+      "search",
+      "type",
+      "don't browse"
+    ]
+  },
+  {
+    "id": "theme_11_exploration_interest",
+    "name": "Latent willingness to expand categories",
+    "description": "A subset of users express interest in trying new categories if guided and de-risked.",
+    "itemCount": 2,
+    "sources": [
+      "playstore"
+    ],
+    "confidence": "low",
+    "sampleIds": [
+      "playstore_swiggy_ddfc7f4184edf0da",
+      "playstore_zepto_efef9f5fb4ded8f3"
+    ],
+    "keywords": [
+      "try new",
+      "explore",
+      "category"
+    ]
+  }
+]
