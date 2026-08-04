@@ -37,7 +37,7 @@ export default function HomePage() {
           },
           {
             title: "Part 2–3 · Research & Problem",
-            body: "6 synthesized interviews that confirm and challenge AI themes. Problem framed for a clear segment.",
+            body: "6 interviews that confirm and challenge AI themes. Problem framed for a clear segment.",
             href: "/research",
           },
           {

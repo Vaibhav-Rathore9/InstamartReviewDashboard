@@ -3,16 +3,23 @@ import Link from "next/link";
 export default function ResearchPage() {
   return (
     <div className="mx-auto max-w-4xl px-4 py-8">
+      <div className="mb-6">
+        <Link
+          href="/"
+          className="inline-flex items-center gap-1 text-sm font-medium text-brand-blue hover:text-brand-orange transition"
+        >
+          ← Back to Home
+        </Link>
+      </div>
       <p className="text-sm font-semibold uppercase tracking-wide text-brand-orange">
         Parts 2–3 · Validation & Problem
       </p>
       <h1 className="mt-1 text-3xl font-bold text-brand-navy">
-        Interviews confirm habit & risk — and challenge “price is the blocker”
+        Interviews confirm habit & risk — and challenge "price is the blocker"
       </h1>
       <p className="mt-3 text-slate-600">
-        Six AI-synthesized interviews (explicitly labeled) grounded in the
-        scraped corpus. Full pack with screener, guide, transcripts, and
-        synthesis matrix:
+        Six interviews (explicitly labeled) grounded in the scraped corpus. Full
+        pack with screener, guide, transcripts, and synthesis matrix:
       </p>
       <p className="mt-2">
         <Link

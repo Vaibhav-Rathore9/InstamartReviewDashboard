@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useMemo, useState } from "react";
 import {
   PERSONAS,
@@ -76,6 +77,14 @@ export default function AgentPage() {
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
+      <div className="mb-6">
+        <Link
+          href="/"
+          className="inline-flex items-center gap-1 text-sm font-medium text-brand-blue hover:text-brand-orange transition"
+        >
+          ← Back to Home
+        </Link>
+      </div>
       <div className="mb-6">
         <p className="text-sm font-semibold uppercase tracking-wide text-brand-orange">
           Part 4 · AI-Native MVP
