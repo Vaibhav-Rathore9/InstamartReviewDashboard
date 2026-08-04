@@ -15,7 +15,7 @@ export default function ResearchPage() {
         Parts 2–3 · Validation & Problem
       </p>
       <h1 className="mt-1 text-3xl font-bold text-brand-navy">
-        Interviews confirm habit & risk — and challenge "price is the blocker"
+        Interviews confirm habit & risk — and challenge &quot;price is the blocker&quot;
       </h1>
       <p className="mt-3 text-slate-600">
         Six interviews (explicitly labeled) grounded in the scraped corpus. Full
